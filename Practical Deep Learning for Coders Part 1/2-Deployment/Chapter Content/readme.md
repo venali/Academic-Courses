@@ -5,6 +5,7 @@ Today you’ll be designing your own machine learning project, creating your own
 
 Video
 -----
+[![Watch the video](https://img.youtube.com/vi/F4tvM4Vb3A0/maxresdefault.jpg)](https://youtu.be/F4tvM4Vb3A0)
 
 This lesson is based partly on [chapter 2](https://github.com/fastai/fastbook/blob/master/02_production.ipynb) of the [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
 
