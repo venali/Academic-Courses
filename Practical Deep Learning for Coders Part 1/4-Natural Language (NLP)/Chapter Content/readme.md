@@ -5,7 +5,7 @@ It’s time for us to learn how to analyse natural language documents, using Nat
 
 Video
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://www.youtube.com/watch?v=toUgBQv1BT8))]
+[![Watch the video](https://youtu.be/toUgBQv1BT8)
 This lesson is based partly on chapter 10 of the book.
 
 Resources
