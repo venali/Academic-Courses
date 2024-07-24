@@ -6,6 +6,8 @@ In this lesson you’re going to hit the ground running – in the first five mi
 Video
 -----
 
+[![Watch the video](https://img.youtube.com/vi/8SF_h3xF3cE/maxresdefault.jpg)](https://youtu.be/8SF_h3xF3cE)
+
 Click the video below to play. Once it’s playing, you’ll see a little rectangle in the bottom-right—click it to make the video full-screen. Press Esc to remove full-screen view. Press c to turn subtitles on/off.
 
 This lesson is based partly on [chapter 1](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb) of the [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
