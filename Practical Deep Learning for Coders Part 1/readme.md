@@ -3,10 +3,6 @@ Practical Deep Learning
 
 _A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems._**New!**
 
-We just launched a new >30 hour video course for more experienced students:
-
-[Practical Deep Learning for Coders part 2: _Deep Learning Foundations to Stable Diffusion_](https://course.fast.ai/Lessons/part2.html)
-
 This free course is designed for people (and bunnies!) with some coding experience who want to learn how to apply deep learning and machine learning to practical problems.Deep learning can do all kinds of amazing things. For instance, all illustrations throughout this website are made with deep learning, using [DALL-E 2](https://openai.com/dall-e-2/).
 
 Welcome!
