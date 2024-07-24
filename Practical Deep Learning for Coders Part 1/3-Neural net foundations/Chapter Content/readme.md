@@ -5,6 +5,9 @@ Today we’ll be learning about the mathematical foundations of deep learning: 
 
 Video
 -----
+[![Watch the video](https://img.youtube.com/vi/hBBOjCiFcuo/maxresdefault.jpg)](https://youtu.be/hBBOjCiFcuo)
+
+
 
 This lesson is based partly on [chapter 4](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb) of the [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
 
